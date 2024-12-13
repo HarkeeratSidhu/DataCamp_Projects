@@ -1,4 +1,7 @@
 DataCamp Projects Collection
+
+
+
 This repository is a curated collection of projects from DataCamp, showcasing practical applications of various tools and technologies. The projects cover key areas including:
 
 
